@@ -14,7 +14,7 @@ A simple weather application built with Next.js that provides current weather co
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ahmed-Rahmouni/weather-app.git
+   git clone https://github.com/Ahmed-Rahmouni/weatherforecasts.git
    cd weather-app
 
     Install dependencies:
